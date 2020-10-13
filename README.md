@@ -1,1 +1,1 @@
-# lostintangent's dotfiles
+Sample dotfiles
